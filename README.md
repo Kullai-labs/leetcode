@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kullai-labs/leetcode/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1084-sales-analysis-iii](https://github.com/Kullai-labs/leetcode/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
