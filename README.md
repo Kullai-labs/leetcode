@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kullai-labs/leetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Kullai-labs/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Kullai-labs/leetcode/tree/master/0724-find-pivot-index) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kullai-labs/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kullai-labs/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kullai-labs/leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Kullai-labs/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Kullai-labs/leetcode/tree/master/0704-binary-search) |
