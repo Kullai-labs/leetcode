@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kullai-labs/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kullai-labs/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kullai-labs/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Kullai-labs/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Kullai-labs/leetcode/tree/master/0724-find-pivot-index) |
 | [1260-shift-2d-grid](https://github.com/Kullai-labs/leetcode/tree/master/1260-shift-2d-grid) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Kullai-labs/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kullai-labs/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kullai-labs/leetcode/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kullai-labs/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kullai-labs/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kullai-labs/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kullai-labs/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kullai-labs/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kullai-labs/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kullai-labs/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Kullai-labs/leetcode/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 | [2670-find-the-distinct-difference-array](https://github.com/Kullai-labs/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Dynamic Programming
 |  |
@@ -82,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Kullai-labs/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kullai-labs/leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
