@@ -7,9 +7,20 @@ class Solution:
         #     else:
         #         ans.add(num)
         # return ans.pop()
-        xor=0
-        for i in nums: 
-            xor^=i
-        return xor
+        # =====================================
+        # xor=0
+        # for i in nums: 
+        #     xor^=i
+        # return xor
+        # =========================
+        ans={}
+        for i in nums:
+            if i in ans:
+                ans[i]+=1
+            else:
+                ans[i]=1
+        for i in ans:
+            if ans[i] == 1:
+                return i
 
         
