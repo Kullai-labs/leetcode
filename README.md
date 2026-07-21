@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kullai-labs/leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Kullai-labs/leetcode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Kullai-labs/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Kullai-labs/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Kullai-labs/leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
