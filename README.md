@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2670-find-the-distinct-difference-array](https://github.com/Kullai-labs/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 ## Dynamic Programming
 |  |
@@ -109,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kullai-labs/leetcode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
