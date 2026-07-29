@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Kullai-labs/leetcode/tree/master/0058-length-of-last-word) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
