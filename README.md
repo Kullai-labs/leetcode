@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Kullai-labs/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Kullai-labs/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kullai-labs/leetcode/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kullai-labs/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Kullai-labs/leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Kullai-labs/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kullai-labs/leetcode/tree/master/0344-reverse-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
