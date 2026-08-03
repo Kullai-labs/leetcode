@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Kullai-labs/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Kullai-labs/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Kullai-labs/leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/Kullai-labs/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Kullai-labs/leetcode/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kullai-labs/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kullai-labs/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Kullai-labs/leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kullai-labs/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kullai-labs/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Kullai-labs/leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kullai-labs/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Kullai-labs/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kullai-labs/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kullai-labs/leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Kullai-labs/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Kullai-labs/leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Kullai-labs/leetcode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Kullai-labs/leetcode/tree/master/0206-reverse-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kullai-labs/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
