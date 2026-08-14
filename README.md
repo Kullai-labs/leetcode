@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Kullai-labs/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Kullai-labs/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kullai-labs/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Kullai-labs/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Kullai-labs/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Kullai-labs/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kullai-labs/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kullai-labs/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Kullai-labs/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kullai-labs/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kullai-labs/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Kullai-labs/leetcode/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2670-find-the-distinct-difference-array](https://github.com/Kullai-labs/leetcode/tree/master/2670-find-the-distinct-difference-array) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kullai-labs/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Kullai-labs/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Kullai-labs/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kullai-labs/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kullai-labs/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kullai-labs/leetcode/tree/master/0344-reverse-string) |
