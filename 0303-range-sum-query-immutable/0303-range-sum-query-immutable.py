@@ -1,5 +1,5 @@
 class NumArray:
-
+    #   remember brute force for logic
     def __init__(self, nums):
         self.prefix = [0] * len(nums)
 
