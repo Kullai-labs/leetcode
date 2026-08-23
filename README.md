@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kullai-labs/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Kullai-labs/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Kullai-labs/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Kullai-labs/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Kullai-labs/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Kullai-labs/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kullai-labs/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kullai-labs/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Kullai-labs/leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Kullai-labs/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Kullai-labs/leetcode/tree/master/0509-fibonacci-number) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kullai-labs/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Kullai-labs/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Kullai-labs/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Kullai-labs/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kullai-labs/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
