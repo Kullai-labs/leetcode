@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2670-find-the-distinct-difference-array](https://github.com/Kullai-labs/leetcode/tree/master/2670-find-the-distinct-difference-array) |
 | [3024-type-of-triangle](https://github.com/Kullai-labs/leetcode/tree/master/3024-type-of-triangle) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kullai-labs/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kullai-labs/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kullai-labs/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kullai-labs/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2670-find-the-distinct-difference-array](https://github.com/Kullai-labs/leetcode/tree/master/2670-find-the-distinct-difference-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Kullai-labs/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kullai-labs/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
