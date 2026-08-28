@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kullai-labs/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kullai-labs/leetcode/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kullai-labs/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3794-reverse-string-prefix](https://github.com/Kullai-labs/leetcode/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kullai-labs/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Kullai-labs/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kullai-labs/leetcode/tree/master/0344-reverse-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3794-reverse-string-prefix](https://github.com/Kullai-labs/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
