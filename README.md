@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Kullai-labs/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Kullai-labs/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kullai-labs/leetcode/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Kullai-labs/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3794-reverse-string-prefix](https://github.com/Kullai-labs/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
@@ -231,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kullai-labs/leetcode/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Kullai-labs/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Kullai-labs/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
