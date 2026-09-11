@@ -19,6 +19,6 @@ class Solution:
                 seen.remove(s[left])
                 left+=1 
             seen.add(s[right])
-            ans=max(ans,right-left+1)
+            ans=max(ans,len(seen))
             
         return ans
