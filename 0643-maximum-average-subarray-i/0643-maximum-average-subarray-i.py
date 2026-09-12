@@ -12,13 +12,25 @@ class Solution:
         #         window_sum-=nums[left]
         #         left+=1
         # return max_sum/k
-        window_sum = sum(nums[:k])       # build first window
-        max_sum = window_sum
-
-        for right in range(k, len(nums)):
-            window_sum += nums[right] - nums[right - k]  # slide: add new, drop old
-            max_sum = max(max_sum, window_sum)
-        return max_sum / k 
+        # window_sum = sum(nums[:k])     
+        # max_sum = window_sum
+        # for right in range(k, len(nums)):
+        #     window_sum += nums[right] - nums[right - k]  
+        #     max_sum = max(max_sum, window_sum)
+        # return max_sum / k 
+        # if len(nums)<1:
+        #     return -1
+        left=0
+        ans=float('-inf')
+        sum1=0
+        for right in range(len(nums)):
+            sum1+=nums[right]
+            if (right-left+1)==k:
+                # avg1=(sum1)/k
+                ans=max(ans,sum1)
+                sum1-=nums[left]
+                left+=1
+        return ans/k
 
     
         
