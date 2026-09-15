@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kullai-labs/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Kullai-labs/leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kullai-labs/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Kullai-labs/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kullai-labs/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Kullai-labs/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kullai-labs/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Kullai-labs/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Kullai-labs/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Kullai-labs/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kullai-labs/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kullai-labs/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kullai-labs/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kullai-labs/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Kullai-labs/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kullai-labs/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kullai-labs/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Kullai-labs/leetcode/tree/master/0268-missing-number) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kullai-labs/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Kullai-labs/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Kullai-labs/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Kullai-labs/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Kullai-labs/leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kullai-labs/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kullai-labs/leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Kullai-labs/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kullai-labs/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
@@ -252,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Kullai-labs/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kullai-labs/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
